@@ -1,0 +1,20 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "goit-node-hw-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": "https://github.com/Mikhaylo-Khokhlov/goit-node-hw-01",
+  "author": "Mikhaylo-Khokhlov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "uuid": "^8.3.2"
+  }
+}
